@@ -1,5 +1,5 @@
-People wishing to submit a BIP should first describe their idea to the [https://groups.google.com/g/bitcoindev
-bitcoindev@googlegroups.com] mailing list to gather feedback on viability and community interest before working on a
+People wishing to submit a BIP should first describe their idea to the [https://groups.google.com/g/bitcoindev bitcoindev@googlegroups.com]
+mailing list to gather feedback on viability and community interest before working on a
 formal description. Please open a pull request to this repository only when substantial progress on the draft has been
 made, preferably when the draft is nearing completion. Authors do <em>not</em> assign a number to their own proposal.
 After a proposal meets the editorial criteria, a BIP Editor will assign a number to it and publish the proposal by
@@ -1198,13 +1198,13 @@ users (see also: [https://en.bitcoin.it/wiki/Economic_majority economic majority
 | Steven Roose, Brandon Black
 | Specification
 | Draft
-|-
+|- style="background-color: #ffffcf"
 | [[bip-0347.mediawiki|347]]
 | Consensus (soft fork)
 | OP_CAT in Tapscript
 | Ethan Heilman, Armin Sabouri
 | Specification
-| Draft
+| Complete
 |-
 | [[bip-0348.md|348]]
 | Consensus (soft fork)
